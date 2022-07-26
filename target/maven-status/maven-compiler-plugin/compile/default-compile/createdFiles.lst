@@ -1,0 +1,6 @@
+ru\netology\agafonovDanil\configuration\JavaConfiguration.class
+ru\netology\agafonovDanil\ConditionalApplication.class
+ru\netology\agafonovDanil\systemProfile\DevProfile.class
+ru\netology\agafonovDanil\controller\ProfileController.class
+ru\netology\agafonovDanil\systemProfile\SystemProfile.class
+ru\netology\agafonovDanil\systemProfile\ProductionProfile.class
